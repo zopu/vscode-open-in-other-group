@@ -1,8 +1,13 @@
 {
 	"name": "open-in-other-group",
+	"publisher": "zopu",
 	"displayName": "open-in-other-group",
 	"description": "Open current editor in other group",
 	"version": "0.1.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zopu/vscode-open-in-other-group"
+	  },
 	"engines": {
 		"vscode": "^1.45.0"
 	},
